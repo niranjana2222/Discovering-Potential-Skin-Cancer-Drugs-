@@ -8,4 +8,6 @@ research notebook: https://docs.google.com/document/d/1iv_2VSPSFdsR2XIBdmccVO14n
 
 proposal slideshow: https://docs.google.com/presentation/d/1pCz5nHR3NHXFGGUtS8lNBleQvYneREGjPiAbRQ9qoig/edit#slide=id.g1ede7390a06_0_6
 
+Unable to upload molecular descriptors csv due to size
+
 Email 2redrosen@gmail.com for any comments/questions
